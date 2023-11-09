@@ -1,0 +1,11 @@
+pyautogui
+
+
+dotenv
+langchain
+PyPDF2
+pickle
+
+tkinter
+
+
